@@ -1,0 +1,11 @@
+Model Information:
+* title:	Grungy Brown Package
+* source:	https://sketchfab.com/3d-models/grungy-brown-package-1a5db996f6fd487b9390fa23ea3121fb
+* author:	KaitlinKelly (https://sketchfab.com/KaitlinK2000)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Grungy Brown Package" (https://sketchfab.com/3d-models/grungy-brown-package-1a5db996f6fd487b9390fa23ea3121fb) by KaitlinKelly (https://sketchfab.com/KaitlinK2000) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
